@@ -1,10 +1,13 @@
+
 # ILTVIBE
 
 ### I LIKE THE VIBE
 
 Music · Lyrics · Creative Projects
 
-Original music concepts, songwriting, lyrics, and digital creations.
+Original music concepts, songwriting, lyrics, and creative direction by 알윈 아놀린.
+
+AI-assisted music production, including vocals and musical generation.
 
 ---
 
@@ -14,4 +17,8 @@ Original music concepts, songwriting, lyrics, and digital creations.
 
 ---
 
-© ILTVIBE
+Original lyrics, concepts, and composition by 알윈 아놀린.
+
+AI-Assisted Music Production.
+
+© 2026 ILTVIBE — All rights reserved.
